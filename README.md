@@ -1,4 +1,12 @@
-# neuspo: Fact-driven, real-time sports event and news site
+<p align="center">
+    <img src="https://raw.githubusercontent.com/neuml/neuspo/master/logo.png"/>
+</p>
+
+<h3 align="center">
+    <p>Fact-driven, real-time sports event and news site</p>
+</h3>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [neuspo](https://neuspo.com) is a fact-driven, real-time sports event and news site. This repository contains documentation on neuspo along with issue management for reporting bugs, questions or comments.  
 
