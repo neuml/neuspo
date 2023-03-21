@@ -8,7 +8,9 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[neuspo](https://neuspo.com) is a fact-driven, real-time sports event and news site. This repository contains documentation on neuspo along with issue management for reporting bugs, questions or comments.  
+*As of 2023-03-20, neuspo.com is no longer online due to API changes with the upstream data feed. This project page is kept as a reference.*
+
+neuspo is a fact-driven, real-time sports event and news site.
 
 <p align="center">
     <a href="https://neuspo.com"><img src="https://raw.githubusercontent.com/neuml/neuspo/master/neuspo.png"/></a>
@@ -25,4 +27,4 @@ neuspo strives to provide the following:
 - Objective team updates
 - Insights and game predictions
 
-We hope you'll find it an engaging, fun and a simple way to find relevant, interesting and high quality sports content.
+See [this article](https://medium.com/neuml/neuspo-d42a6e33031) for more information on the concepts and architecture behind neuspo.
