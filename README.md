@@ -2,9 +2,9 @@
     <img src="https://raw.githubusercontent.com/neuml/neuspo/master/logo.png"/>
 </p>
 
-<h3 align="center">
-    <p>Fact-driven, real-time sports event and news site</p>
-</h3>
+<p align="center">
+    <b>Fact-driven, real-time sports event and news site</b>
+</p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
